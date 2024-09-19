@@ -3,6 +3,7 @@ body {
     margin: 20px;
     padding: 20px;
     font-family: Verdana, sans-serif;
+    color: #1050aa;
   }
 
 h1 {
@@ -16,6 +17,10 @@ h1 {
 
 #description p::first-letter {
     font-size: 2em;
+    color: firebrick;
+}
+
+#description {
     color: firebrick;
 }
 
