@@ -39,3 +39,33 @@ a {
     text-align: center;
     font-weight: bold;
 }
+
+.attraction-box h2 {
+    border: 2px dotted #483D8B;
+    border-radius: 10px;
+    padding: 15px;
+    margin-top: 20px;
+    color: green;
+    text-align: center;
+}
+
+.attraction-box ol {
+    border: 2px dotted #483D8B;
+    border-radius: 10px;
+    padding: 15px;
+    margin-top: 20px;
+    color: green;
+    font-family: Georgia, serif;
+    font-size:1.1em;
+    line-height: 1.6;
+}
+
+.attraction-box .attraction {
+    font-weight: bold;
+    text-decoration: underline;
+    color: tomato;
+}
+
+.attraction-box h2 strong {
+    font-style: italic;
+  }
